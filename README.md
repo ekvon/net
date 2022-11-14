@@ -1,2 +1,2 @@
-# net
-Network utilities, classes and applications.
+# streaming
+Streaming applications using ffmpeg API.
